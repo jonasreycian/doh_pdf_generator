@@ -1,2 +1,1 @@
-# doh_pdf_generator
-Health and Safety Checklist PDF Generator
+# Health and Safety Checklist PDF Generator
