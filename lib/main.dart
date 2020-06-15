@@ -32,6 +32,10 @@ class MyApp extends StatelessWidget {
             return CupertinoPageRoute(
               builder: (_) => AdditionalInformationScreen(),
             );
+          case '/oath_affirmation':
+            return CupertinoPageRoute(
+              builder: (_) => OathAndAffirmationScreen(),
+            );
         }
       },
     );
